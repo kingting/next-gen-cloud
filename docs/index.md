@@ -1,3 +1,8 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="style.css">
 
 # The Next Generation of Cloud Infrastructure: Smarter, Leaner, and Ready for AI
 *How modern tools and intelligent architecture are reshaping cloud strategies for growing businesses.*
@@ -108,7 +113,7 @@ I’m a **Lead DevOps Architect** with over a decade of experience designing sec
 My expertise includes:
 - Kubernetes deployments (AKS, Helm Charts)
 - Infrastructure as Code (Terraform, Ansible)
-- End-to-end CI/CD pipelines (Gitlab CI, Azure DevOps, GitHub Actions)
+- End-to-end CI/CD pipelines (Azure DevOps, GitHub Actions)
 - Secure secrets management (HashiCorp Vault)
 - Hybrid infrastructure integration and cloud migrations
 - Emerging edge deployments using Talos Linux and Nomad orchestration
