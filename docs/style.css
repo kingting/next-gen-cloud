@@ -1,22 +1,43 @@
----
-title: ""
----
-/* Hide the GitHub Pages default repo header */
+/* Hide GitHub Pages default repo header */
 header.site-header {
   display: none;
 }
 
-/* Improve base font for readability */
+/* Base styles */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.6;
-  max-width: 900px;
+  max-width: 1200px;
   margin: 2rem auto;
   padding: 0 1rem;
   font-size: 1.1rem;
 }
 
-/* Style tables better */
+/* Two-column layout */
+.container {
+  display: flex;
+  gap: 2rem;
+}
+
+/* Main blog area */
+.main-content {
+  flex: 3;
+}
+
+/* Sidebar (Table of Contents) */
+.sidebar {
+  flex: 1;
+  position: sticky;
+  top: 2rem;
+  height: fit-content;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+/* Table styling */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -31,6 +52,3 @@ table th {
   background-color: #f4f4f4;
   text-align: left;
 }
-
-<link rel="stylesheet" href="style.css">
-

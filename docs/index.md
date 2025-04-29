@@ -4,21 +4,24 @@ title: ""
 
 <link rel="stylesheet" href="style.css">
 
+<div class="container">
+
+<div class="sidebar">
+
+## Table of Contents
+- [The Challenge](#the-challenge-overpriced-overcomplicated-cloud-hosting)
+- [A New Approach](#a-new-approach-modular-cost-effective-infrastructure)
+- [The Results](#the-results-cost-effective-scalable-and-future-ready-infrastructure)
+- [Why This Marks the Shift](#why-this-marks-the-shift-toward-next-generation-cloud-infrastructure)
+- [About Me](#about-me)
+- [Ready to Modernize](#ready-to-modernize-your-cloud-infrastructure)
+
+</div>
+
+<div class="main-content">
+
 # The Next Generation of Cloud Infrastructure: Smarter, Leaner, and Ready for AI
 *How modern tools and intelligent architecture are reshaping cloud strategies for growing businesses.*
-
----
-
-In today’s landscape, managing cloud infrastructure shouldn't feel like navigating a maze—or paying a premium for complexity you don’t need.  
-As an experienced IT consultant who has worked across the full spectrum—from on-premise systems to first-generation cloud platforms like AWS, Azure, and Google Cloud—I’ve seen firsthand how the landscape has evolved.
-
-We are now entering a new era:  
-One where businesses no longer have to rely solely on bloated, proprietary services from cloud providers.  
-Instead, we can selectively choose **best-in-class software** for security, networking, automation, and orchestration—creating **leaner, modular, and cost-effective infrastructures**.  
-The cloud provider simply becomes a **reliable compute and storage layer**, while the real intelligence, flexibility, and security come from the tools we implement on top.
-
-Recently, I worked with a mid-sized ecommerce company facing this exact challenge.  
-Here’s a case study on how I helped them modernize their infrastructure—delivering better performance, stronger security, and over 90% cost savings.
 
 ---
 
@@ -131,8 +134,7 @@ If you're looking to simplify your infrastructure, reduce operational costs, and
 
 ---
 
-**King Ting**  
-Lead DevOps Architect | Cloud Infrastructure Specialist
-````
+**[Back to Top](#the-next-generation-of-cloud-infrastructure-smarter-leaner-and-ready-for-ai)**
 
-Let me know when you're ready to start your second post or structure your Ansible/Terraform code to match this design!
+</div> <!-- End of main-content -->
+</div> <!-- End of container -->
